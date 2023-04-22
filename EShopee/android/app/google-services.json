@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97202679533",
+    "firebase_url": "https://e-shopee-bd60c-default-rtdb.firebaseio.com",
+    "project_id": "e-shopee-bd60c",
+    "storage_bucket": "e-shopee-bd60c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97202679533:android:c2d09d534a0efa77a9e6e4",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97202679533-iiqpk9u91a4upvecqse7aodgeda189kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_commerce_app_flutter",
+            "certificate_hash": "58c25329643ef3f776e73fe1a97d4246d48cdfc3"
+          }
+        },
+        {
+          "client_id": "97202679533-te9egmusr44mnrtvs6gfai8jjs5ugm7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA90MHDylyfxcrxA-6-5gJ-Qfin-AaE9uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97202679533-te9egmusr44mnrtvs6gfai8jjs5ugm7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
